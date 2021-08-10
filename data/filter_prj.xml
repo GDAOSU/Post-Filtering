@@ -1,0 +1,15 @@
+<Main_prj_file>
+    <Output_Folder>J:\xlingsky\post-filtering - finished\code\data\</Output_Folder>
+    <DSM_path>J:\xlingsky\post-filtering - finished\code\data\dsm.tif</DSM_path>
+    <Ortho_path>J:\xlingsky\post-filtering - finished\code\data\ortho_rgb.tif</Ortho_path>
+    <Filtering_parameters>
+        <window_size>25</window_size>
+        <iteration_times>5</iteration_times>
+        <tile_size tile_x_size="1000" tile_y_size="1000" overlap_size="100" />
+        <!--Filtering methods include bilateral, guided_image, MLPA, tree_filter, guided_median and local_patch-->
+        <filtering_methods>patch_filtering</filtering_methods>
+        <common_paras Std_color="-1" Std_distance="-1" Std_disparity="-1" />
+        <!--The following parameters only work on the window size definition of patch filtering method-->
+        <patch_filter_paras color_weight="0.3" distance_weight="0.3" disparity_weight="0.6" />
+    </Filtering_parameters>
+</Main_prj_file>
