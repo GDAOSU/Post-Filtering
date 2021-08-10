@@ -23,8 +23,7 @@ It requires:
 filterd dsm  
 ![~W}EW8YIE}J)O~ 7D}IJP_E](https://user-images.githubusercontent.com/32317924/128939855-022ac521-7bea-4abd-968e-68a7008bda89.png)
 
-# THIS PROJECT IS DEPRECATED
-This repo is not maintained anymore.
+# This repo is not maintained anymore.
 You can still use the code for research purpose, but we are not responsible for any updates.
 
 # Reference
