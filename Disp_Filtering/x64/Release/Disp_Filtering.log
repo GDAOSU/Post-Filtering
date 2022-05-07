@@ -1,0 +1,162 @@
+﻿  stdafx.cpp
+  Disp_Filtering.cpp
+  Automatically linking with package_gdal_x64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(129,34): warning C4101: 'pD': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(129,39): warning C4101: 'pS': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(130,17): warning C4101: 'vv': unreferenced local variable
+  Automatically linking with WuHrsMch64.lib
+  Disp_Filtering1.cpp
+  Automatically linking with package_gdal_x64.lib
+  Automatically linking width PixelLabIGF_x64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(209,17): warning C4101: 'e': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(323,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(325,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(327,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(336,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(337,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(338,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(344,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(346,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(348,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(353,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(354,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(355,26): warning C4305: '=': truncation from 'double' to 'float'
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(365,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(464,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(527,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(725,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(726,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(736,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(737,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1035,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1273,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1302,99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1335,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1346,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1433,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1567,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1572,31): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1628,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1629,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1643,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1644,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1674,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1675,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1676,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1724,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1725,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1726,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1748,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1749,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1778,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1860,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1861,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1874,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1875,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1903,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1904,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1905,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1980,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1981,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(1982,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2018,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2019,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2048,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2240,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2257,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2395,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2396,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2471,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2472,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2532,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2533,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2611,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2612,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2625,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2629,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\Disp_Filtering1.cpp(2630,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  converter_utm_latlon.cpp
+  CVClass.cpp
+  FileOperation.cpp
+  Automatically linking with package_gdal_x64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(29,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(53,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(92,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(120,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(256,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(292,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\FileOperation.cpp(844,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ImageFeatureMatching.cpp
+  Automatically linking with package_gdal_x64.lib
+  Automatically linking with WuHrsMch64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(36,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(108,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(109,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(188,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(414,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(415,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(484,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(676,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(722,9): warning C4101: 'y': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(722,6): warning C4101: 'x': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(1197,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(1687,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(1980,18): warning C4553: '==': result of expression not used; did you intend '='?
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(1998,11): warning C4101: 'deltax': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(1998,19): warning C4101: 'deltay': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(2399,18): warning C4553: '==': result of expression not used; did you intend '='?
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(2515,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(2611,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(2701,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(2915,9): warning C4101: 'j': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(3106,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(3394,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageFeatureMatching.cpp(3415,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ImageProcess.cpp
+  Automatically linking with package_gdal_x64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(129,34): warning C4101: 'pD': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(129,39): warning C4101: 'pS': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\walis_HTYY.hpp(130,17): warning C4101: 'vv': unreferenced local variable
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(639,33): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(639,41): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(639,78): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(639,86): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(641,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(778,18): warning C4477: 'fprintf' : format string '%lf' requires an argument of type 'double', but variadic argument 2 has type 'int'
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\ImageProcess.cpp(778,18): warning C4477: 'fprintf' : format string '%lf' requires an argument of type 'double', but variadic argument 3 has type 'int'
+  LeastSquareMatching.cpp
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\LeastSquareMatching.cpp(205,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LL_UTM.cpp
+  OtherFuns.cpp
+  ParallelProcessing.cpp
+  RPC_Fun.cpp
+  Automatically linking with package_gdal_x64.lib
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(363,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(363,39): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(364,31): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(364,42): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(448,27): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(448,37): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(449,30): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(449,40): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(2059,24): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(2059,31): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(2059,59): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(2059,66): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\Disp_Filtering\RPC_Fun.cpp(4126,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Simple_Matrix_Computation.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  fast.c
+  fast_10.c
+  fast_11.c
+  fast_12.c
+  fast_9.c
+  nonmax.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1957 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Disp_Filtering.vcxproj -> J:\xlingsky\post-filtering - finished\code\Post-Filtering-master\x64\Release\Disp_Filtering.exe
